@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "minegard:blocks/midrock_mossy",
+        "top": "minegard:blocks/midrock_mossy",
+        "side": "minegard:blocks/midrock_mossy"
+    }
+}

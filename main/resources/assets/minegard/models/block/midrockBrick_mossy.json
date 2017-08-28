@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "minegard:blocks/midrockBrick_mossy"
+    }
+}

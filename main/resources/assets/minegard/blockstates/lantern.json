@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model" : "minegard:lantern" },
+        "facing=east":  { "model" : "minegard:lantern", "y":90 },
+        "facing=south": { "model" : "minegard:lantern", "y":180 },
+        "facing=west":  { "model" : "minegard:lantern", "y":270 }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "minegard:midrockBrick_cracked_slab_half" },
+        "half=top": { "model": "minegard:midrockBrick_cracked_slab_upper" }
+    }
+}
