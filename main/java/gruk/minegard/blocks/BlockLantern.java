@@ -4,6 +4,8 @@ import java.util.List;
 import java.util.Random;
 
 import gruk.minegard.Reference;
+import gruk.minegard.TabMinegardBlocks;
+import gruk.minegard.TabMinegardDecorations;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockHorizontal;
 import net.minecraft.block.BlockPistonBase;
@@ -36,6 +38,7 @@ public class BlockLantern extends BlockHorizontal {
 		setHardness(1.5F);
 		setLightLevel(1);
 		setDefaultState(this.blockState.getBaseState().withProperty(FACING, EnumFacing.NORTH));	
+		this.setCreativeTab(TabMinegardDecorations.CREATIVE_TAB);
 	}
 	
 	@Override

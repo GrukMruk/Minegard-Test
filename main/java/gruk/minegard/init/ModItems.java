@@ -13,21 +13,21 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class ModItems {
 	
 	public static Item runesteel;
-	public static Item pineStick;
+	public static Item pinestick;
 
 	public static void init() {
 	runesteel = new ItemRunesteel();
-	pineStick = new ItemPineStick();
+	pinestick = new ItemPineStick();
 	}
 	
 	public static void register() {
 		GameRegistry.register(runesteel);
-		GameRegistry.register(pineStick);
+		GameRegistry.register(pinestick);
 	}
 	
 	public static void registerRenders() {
 		registerRender(runesteel);
-		registerRender(pineStick);
+		registerRender(pinestick);
 	}
 	
 	private static void registerRender(Item item) {

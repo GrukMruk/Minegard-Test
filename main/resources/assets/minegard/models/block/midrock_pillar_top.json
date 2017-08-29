@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "minegard:blocks/midrock_pillar_top",
+        "side": "minegard:blocks/midrock_pillar"
+    }
+}

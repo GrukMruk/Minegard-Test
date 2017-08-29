@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "minegard:blocks/midrockbrick",
+        "top": "minegard:blocks/midrockbrick",
+        "side": "minegard:blocks/midrockbrick"
+    }
+}

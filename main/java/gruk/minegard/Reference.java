@@ -12,7 +12,7 @@ public class Reference {
 	
 	public static enum MinegardItems {
 		RUNESTEEL("runesteel", "runesteel"),
-		PINESTICK("pineStick", "pinestick");
+		PINESTICK("pinestick", "pinestick");
 		
 		private String unlocalizedName;
 		private String registryName;
@@ -38,18 +38,19 @@ public class Reference {
 	MIDROCK_MOSSY("midrock_mossy", "midrock_mossy"),
 	MIDROCK_MOSSY_STAIRS("midrock_mossy_stairs", "midrock_mossy_stairs"),
 	MIDROCK_MOSSY_SLAB("midrock_mossy_slab", "midrock_mossy_slab"),
-	MIDROCKBRICK("midrockBrick", "midrockBrick"),
-	MIDROCKBRICK_STAIRS("midrockBrick_stairs","midrockBrick_stairs"),
-	MIDROCKBRICK_SLAB("midrockBrick_slab", "midrockBrick_slab"),
-	MIDROCKBRICK_CRACKED("midrockBrick_cracked", "midrockBrick_cracked"),
-	MIDROCKBRICK_CRACKED_STAIRS("midrockBrick_cracked_stairs", "midrockBrick_cracked_stairs"),
-	MIDROCKBRICK_CRACKED_SLAB("midrockBrick_cracked_slab", "midrockBrick_cracked_slab"),
-	MIDROCKBRICK_MOSSY("midrockBrick_mossy", "midrockBrick_mossy"),
-	MIDROCKBRICK_MOSSY_STAIRS("midrockBrick_mossy_stairs", "midrockBrick_mossy_stairs"),
-	MIDROCKBRICK_MOSSY_SLAB("midrockBrick_mossy_slab", "midrockBrick_mossy_slab"),
+	MIDROCKBRICK("midrockbrick", "midrockbrick"),
+	MIDROCKBRICK_STAIRS("midrockbrick_stairs","midrockbrick_stairs"),
+	MIDROCKBRICK_SLAB("midrockbrick_slab", "midrockbrick_slab"),
+	MIDROCKBRICK_CRACKED("midrockbrick_cracked", "midrockbrick_cracked"),
+	MIDROCKBRICK_CRACKED_STAIRS("midrockbrick_cracked_stairs", "midrockbrick_cracked_stairs"),
+	MIDROCKBRICK_CRACKED_SLAB("midrockbrick_cracked_slab", "midrockbrick_cracked_slab"),
+	MIDROCKBRICK_MOSSY("midrockbrick_mossy", "midrockbrick_mossy"),
+	MIDROCKBRICK_MOSSY_STAIRS("midrockbrick_mossy_stairs", "midrockbrick_mossy_stairs"),
+	MIDROCKBRICK_MOSSY_SLAB("midrockbrick_mossy_slab", "midrockbrick_mossy_slab"),
 	LANTERN("lantern", "lantern"),
 	RUNESTEEL_ORE("runesteel_ore", "runesteel_ore"),
-	RUNESTEEL_BLOCK("runesteel_block", "runesteel_block");
+	RUNESTEEL_BLOCK("runesteel_block", "runesteel_block"),
+	MIDROCK_PILLAR("midrock_pillar","midrock_pillar");
 	
 	private String unlocalizedName;
 	private String registryName;

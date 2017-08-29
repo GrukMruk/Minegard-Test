@@ -67,7 +67,7 @@ public abstract class BlockMidrockBrick_slab extends BlockSlab {
 	
 	@Override
 	public Item getItemDropped(IBlockState state, Random rand, int fortune) {
-		return Item.getItemFromBlock(ModBlocks.midrockBrick_slab_half);
+		return Item.getItemFromBlock(ModBlocks.midrockbrick_slab_half);
 	}
 
 	@Override

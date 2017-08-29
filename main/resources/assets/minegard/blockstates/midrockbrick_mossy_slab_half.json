@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "minegard:midrockbrick_mossy_slab_upper" },
+		"half=bottom": { "model": "minegard:midrockbrick_mossy_slab_half" }
+    }
+}
